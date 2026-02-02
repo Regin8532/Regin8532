@@ -1,81 +1,74 @@
-# 👋 Hi, I'm Regin V
+<h1 align="center">Hi 👋, I'm Regin V</h1>
+<h3 align="center">Java Developer | Fresher | Spring Boot Enthusiast</h3>
 
-🎯 **Java Developer | Fresher**  
-📍 Nagercoil, Tamil Nadu, India  
-
-💡 Passionate about building **Java-based web applications** using **Spring Boot** and clean architecture.  
-🚀 Actively seeking opportunities to start my career as a **Java Backend / Full Stack Developer**.
+<p align="center">
+📍 Nagercoil, Tamil Nadu, India <br>
+💻 Passionate about Java Backend Development <br>
+🚀 Actively looking for Java Developer opportunities
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BE – Electronics and Communication Engineering (CGPA: 7.7)
-- ☕ Strong foundation in **Core Java, OOP, and JVM basics**
-- 🌱 Hands-on experience with **Spring Boot, Spring MVC, JPA/Hibernate**
-- 🧪 Familiar with **JUnit & Mockito** for unit testing
-- 🔄 Experience with **REST APIs & CRUD applications**
-- 🤝 Team player with internship experience in **Agile environment**
+- 🎓 BE – Electronics and Communication Engineering (CGPA: **7.7**)
+- ☕ Strong in **Core Java, OOP, JVM fundamentals**
+- 🌱 Learning & building projects using **Spring Boot & REST APIs**
+- 🧪 Hands-on with **JUnit & Mockito**
+- 🧩 Familiar with **MVC & layered architecture**
+- 🤝 Internship experience in **Agile development**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- Java
-- MySQL
-- PHP
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate
-- Spring Security
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-43A047?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
-### 🌐 Web Technologies
-- HTML5
-- CSS3
-- JavaScript
-- Thymeleaf
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### 🧪 Testing
-- JUnit
-- Mockito
-
-### 🧰 Tools
-- Git & GitHub
-- Maven
-- IntelliJ IDEA
-- VS Code
-- Postman
+### 🧪 Testing & Tools
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
 ## 📌 Featured Projects
 
-### 💰 SmartSpend – Expense Tracker Application
-**Tech:** Java | Spring Boot | Spring MVC | JPA | MySQL | Thymeleaf  
+### 💰 SmartSpend – Expense Tracker
+**Java | Spring Boot | Spring MVC | JPA | MySQL | Thymeleaf**
 
-- Implemented **CRUD operations** with proper input validation  
-- Followed **MVC & layered architecture**
-- Integrated **MySQL database** using JPA/Hibernate
-- Wrote **unit tests** using JUnit & Mockito
-- Clean, modular, and maintainable codebase  
+- CRUD-based expense tracking application
+- Followed MVC & layered architecture
+- MySQL integration using JPA/Hibernate
+- Unit testing with JUnit & Mockito
+- Clean, modular & maintainable code
 
-🔗 *Project Link:* _(Add GitHub repo link here)_
+🔗 *Repo:* https://github.com/Regin8532/Smart-Spend-Expense-Tracker
 
 ---
 
 ### 📅 Event Management System
-**Tech:** Java | Spring Boot | Spring Security | JPA | MySQL | Thymeleaf  
+**Java | Spring Boot | Spring Security | JPA | MySQL**
 
-- Built **role-based authentication & authorization**
-- Implemented **Spring Security (session-based login)**
-- Designed REST APIs for **event, user & admin modules**
-- Added **controller & service layer unit tests**
+- Role-based authentication & authorization
+- Session-based login using Spring Security
+- REST APIs for events & users
+- Controller & service layer unit tests
 
-🔗 *Project Link:* _(Add GitHub repo link here)_
+🔗 *Repo:* https://github.com/Regin8532/Event-Management-System
 
 ---
 
@@ -83,22 +76,21 @@
 
 ### 🏢 Web Development Intern (PHP)
 **Infiniti Software Solutions Pvt. Ltd.**  
-📆 Mar 2025 – Jun 2025  
+📆 Mar 2025 – Jun 2025
 
-- Worked on an internal **Scrum Management Tool**
-- Developed **CRUD modules** using PHP & MySQL
-- Followed **MVC architecture**
-- Exposure to **Agile & team collaboration**
-- Improved backend logic and SQL optimization skills
+- Developed internal Scrum Management Tool
+- Implemented CRUD modules using PHP & MySQL
+- Worked with MVC architecture
+- Exposure to Agile & team collaboration
 
 ---
 
-## 🎯 What I'm Looking For
+## 📊 GitHub Stats
 
-- Java Developer / Backend Developer roles
-- Entry-level or Fresher opportunities
-- Projects involving **Spring Boot & REST APIs**
-- A team where I can **learn, grow, and contribute**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Regin8532&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Regin8532&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
@@ -106,8 +98,8 @@
 
 - 📧 Email: **regin8532@gmail.com**
 - 📞 Phone: **+91 78069 52885**
-- 💼 GitHub: [github.com/Regin8532](https://github.com/Regin8532)
+- 💻 GitHub: [github.com/Regin8532](https://github.com/Regin8532)
 
 ---
 
-⭐ *“Always learning, always building.”*
+⭐ *Always learning. Always building. Always improving.*
