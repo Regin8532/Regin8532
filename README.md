@@ -72,19 +72,6 @@
 
 ---
 
-## 💼 Internship Experience
-
-### 🏢 Web Development Intern (PHP)
-**Infiniti Software Solutions Pvt. Ltd.**  
-📆 Mar 2025 – Jun 2025
-
-- Developed internal Scrum Management Tool
-- Implemented CRUD modules using PHP & MySQL
-- Worked with MVC architecture
-- Exposure to Agile & team collaboration
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
